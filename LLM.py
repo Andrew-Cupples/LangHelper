@@ -2,7 +2,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # CURRENT API KEY
-GOOGLE_API_KEY = "AIzaSyBZkaHGETsGeUtLSLLjmMbAa56wBVCGcyM"
+GOOGLE_API_KEY = ""
 
 # This string is used to ensure the LLM doesn't use too advanced word
 difMsg = "Make sure to not use any complicated words, this is for language learning purposes. So try to keep it as simple as possible"
